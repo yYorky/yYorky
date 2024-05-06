@@ -7,13 +7,14 @@
 
 
 - <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m York Yong a.k.a @yYorky
-- 👀 I’m interested in leveraging data analytics and data science to drive informed decision-making.
-- 🌱 I’m new to data science and is learning new skills and technologies (including using Github)
+- 👀 Interested in leveraging data analytics and data science to drive informed decision-making.
+- 🌱 New to data science and is learning new skills and technologies (including using Github)
 - 🎓 Currently pursuing a Master's in IT in Business (Analytics Track) at Singapore Management University.
 
-Let's transform data into meaningful insights!
+<h3 align="center">Let's transform data into meaningful insights!</h3>
 
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
+
   
 ![Github stats](https://github-readme-stats.vercel.app/api?username=yYorky&theme=slateorange&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yYorky&theme=slateorange&show_icons=true)](https://github.com/Elysian01/github-readme-stats)
