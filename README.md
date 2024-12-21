@@ -6,10 +6,33 @@
 
 
 
-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m York Yong a.k.a @yYorky
-- 👀 Interested in leveraging data analytics and data science to drive informed decision-making.
-- 🌱 New to data science and is learning new skills and technologies (including using Github)
-- 🎓 Currently pursuing a Master's in IT in Business (Analytics Track) at Singapore Management University.
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m York Yong a.k.a @yYorky 👋
+
+👀 Passionate about leveraging data science, analytics, and machine learning to drive innovation and informed decision-making.
+
+🌟 Aspiring AI Engineer and Data Scientist with a keen interest in natural language processing, demand forecasting, and new developments in AI.
+
+🎓 Currently pursuing a Master's in IT in Business (Analytics Track) at Singapore Management University, with a strong focus on AI, machine learning, and operations analytics.
+
+🔭 Current Projects and Interests:
+
+- AI and Data Science: Exploring innovative approaches to demand forecasting, real-time market data prediction, and text analytics.
+
+- Natural Language Processing (NLP): Developed and showcased innovative demo projects, including Retrieval-Augmented Generation (RAG) chatbots designed for dynamic interaction, implemented agentic workflows structured with Pydantic for generating and validating financial reports, and created a voice-enabled RAG assistant for more intuitive and accessible user interactions.
+
+- Creative AI: Developing AI-generated images using FLUX.
+
+💼 Professional Background:Former CFO at Decathlon Singapore with 10 years of finance business partnering experience, now applying my financial and business acumen to the world of AI and data science.
+
+🌱 Always Learning:
+
+- Enhancing skills in PySpark, AutoGluon, and time-series modeling.
+
+- Experimenting with LLaMA models, LoRA, and advanced AI techniques.
+
+- Engaging in Kaggle competitions to refine predictive modeling skills.
+
+📧 Let’s Connect!Feel free to reach out if you’re interested in collaborating, exchanging ideas, or discussing how AI and data science can transform industries.
 
 <h3 align="center">Let's transform data into meaningful insights!</h3>
 
