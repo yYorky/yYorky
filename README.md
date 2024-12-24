@@ -28,11 +28,11 @@
 
 - Enhancing skills in PySpark, AutoGluon, and time-series modeling.
 
-- Experimenting with LLaMA models, LoRA, and advanced AI techniques.
+- Experimenting with Open source Llama models, Chatbot demos using Groq + Streamlit, and new developments in AI.
 
 - Engaging in Kaggle competitions to refine predictive modeling skills.
 
-📧 Let’s Connect!Feel free to reach out if you’re interested in collaborating, exchanging ideas, or discussing how AI and data science can transform industries.
+📧 Let’s Connect! Feel free to reach out if you’re interested in collaborating, exchanging ideas, or discussing how AI and data science can transform industries.
 
 <h3 align="center">Let's transform data into meaningful insights!</h3>
 
