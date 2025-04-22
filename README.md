@@ -12,11 +12,11 @@
 
 🌟 Aspiring AI Engineer and Data Scientist with a keen interest in natural language processing, demand forecasting, and new developments in AI.
 
-🎓 Currently pursuing a Master's in IT in Business (Analytics Track) at Singapore Management University, with a strong focus on AI, machine learning, and operations analytics.
+🎓 Completed a Master's in IT in Business (Data Science & Analytics Track) at Singapore Management University, with a strong focus on AI, machine learning and text analytics.
 
 🔭 Current Projects and Interests:
 
-- AI and Data Science: Exploring innovative approaches to demand forecasting, real-time market data prediction, and text analytics.
+- AI and Data Science: Exploring methods for demand forecasting, Multimodel LLMs and Model Context Protocol.
 
 - Natural Language Processing (NLP): Developed and showcased innovative demo projects, including Retrieval-Augmented Generation (RAG) chatbots designed for dynamic interaction, implemented agentic workflows structured with Pydantic for generating and validating financial reports, and created a voice-enabled RAG assistant for more intuitive and accessible user interactions.
 
