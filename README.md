@@ -1,4 +1,8 @@
+<div align="center">
+  
 # <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi, I’m York Yong a.k.a @yYorky <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
+</div>
 
 <div align="center">
   <img src="https://aditik.home.blog/wp-content/uploads/2019/02/0nsgxxd0kwn3qt2ks.gif" alt="Banner">
