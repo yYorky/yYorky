@@ -39,12 +39,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=vercel&logoColor=white)](https://yorkyong.vercel.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/yorkyong)
 
-
-
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=yYorky\&theme=slateorange\&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yYorky\&theme=slateorange\&show_icons=true)](https://github.com/Elysian01/github-readme-stats)
-
 </div>
 
 
