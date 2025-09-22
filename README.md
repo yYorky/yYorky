@@ -39,6 +39,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=vercel&logoColor=white)](https://yorkyong.vercel.app/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Profile-blue?logo=kaggle&logoColor=white)](https://www.kaggle.com/yorkyong)
 
+[![York's GitHub stats](https://github-readme-stats.vercel.app/api?username=yYorky&show_icons=true&include_all_commits=true&count_private=true&show=prs_merged,prs_merged_percentage&custom_title=York%20Yong%20•%20GitHub%20Stats&bg_color=000000&title_color=F59E0B&text_color=F59E0B&icon_color=F59E0B&border_color=2F2F2F)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yYorky&layout=donut&langs_count=8&bg_color=000000&title_color=F59E0B&text_color=F59E0B&border_color=2F2F2F)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=yYorky&theme=dark&background=000000&ring=F59E0B&fire=F59E0B&currStreakNum=F59E0B&sideNums=F59E0B&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=BBBBBB&border=2F2F2F)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yYorky&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
