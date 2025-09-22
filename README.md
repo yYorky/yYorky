@@ -45,7 +45,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=yYorky&theme=dark&background=000000&ring=F59E0B&fire=F59E0B&currStreakNum=F59E0B&sideNums=F59E0B&currStreakLabel=F59E0B&sideLabels=F59E0B&dates=BBBBBB&border=2F2F2F)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yYorky&theme=darkhub&no-bg=true&no-frame=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yYorky&theme=onedark&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 
